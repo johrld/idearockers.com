@@ -1,0 +1,37 @@
+{
+  "wynd": {
+    "title": "wynd",
+    "description": "wynd delivers hyperlocal wind data with real-time precision — exactly where it matters: where you ride. Powered by AI and backed by the fastest-growing wind sports community on Earth.",
+    "features": [
+      "Live wind speed and direction",
+      "Hyperlocal spot insights",
+      "Community-verified stations",
+      "Built for kitesurfers, wingfoilers & wind lovers"
+    ],
+    "status": "Hyperlocal AI"
+  },
+  "flowboost": {
+    "title": "flowboost",
+    "description": "flowboost is your AI system for generating brand-safe content. Powered by intelligent agents, it connects your data, teams, and channels to streamline every step from strategy to publishing.",
+    "features": [
+      "Brand engine with memory & fingerprints",
+      "Editorial planner for topics & timing",
+      "AI content studio with SEO & formatting",
+      "Multi-channel publishing & performance"
+    ],
+    "status": "Content Agents"
+  },
+  "breathe": {
+    "title": "breathe",
+    "description": "In a world that’s becoming faster and more artificial\nbreathe brings calm and mindfulness back to your life.\nIt helps you slow down, reconnect,\nand create space in the everyday\nfor what truly matters.",
+    "features": [
+      "Guided mindfulness journeys",
+      "Daily moments of calm",
+      "Tools to release stress naturally",
+      "Awareness for a more present life"
+    ],
+    "status": "Mindfulness App"
+  }
+}
+
+

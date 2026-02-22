@@ -1,0 +1,62 @@
+{
+  "title": "Datenschutzerklärung",
+  "back": "Zurück zur Startseite",
+  "lastUpdatedLabel": "Zuletzt aktualisiert",
+  "lastUpdated": "2025-08-13",
+  "sections": [
+    {
+      "title": "1. Verantwortlicher",
+      "content": [
+        "idearockers GmbH, Kanalstraße 62, 23552 Lübeck, Deutschland. Kontakt: mail[at]idearockers.com"
+      ]
+    },
+    {
+      "title": "2. Hosting & Server-Logs",
+      "content": [
+        "Beim Aufruf der Website verarbeitet unser Hosting-Provider automatisch Server-Logfiles (z. B. IP-Adresse in gekürzter Form, Datum/Uhrzeit, angeforderte URL, Referrer, User-Agent), um den sicheren Betrieb zu gewährleisten (Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO).",
+        "Speicherdauer: i. d. R. maximal 30 Tage, danach Löschung oder Anonymisierung."
+      ]
+    },
+    {
+      "title": "3. Cookies",
+      "content": [
+        "Wir setzen ausschließlich technisch notwendige Cookies ein, soweit dies für den Betrieb erforderlich ist (§ 25 Abs. 2 TTDSG; Art. 6 Abs. 1 lit. f DSGVO).",
+        "Keine Tracking- oder Marketing-Cookies; kein Consent-Banner erforderlich."
+      ]
+    },
+    {
+      "title": "4. Kontaktaufnahme",
+      "content": [
+        "Bei einer Kontaktaufnahme verarbeiten wir die von Ihnen übermittelten Daten zur Bearbeitung der Anfrage (Art. 6 Abs. 1 lit. b oder f DSGVO).",
+        "Löschung nach abschließender Bearbeitung, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen."
+      ]
+    },
+    {
+      "title": "5. Empfänger",
+      "content": [
+        "Eine Weitergabe erfolgt nur an Auftragsverarbeiter (z. B. Hosting) auf Grundlage von Verträgen zur Auftragsverarbeitung (Art. 28 DSGVO) oder wenn gesetzlich vorgeschrieben."
+      ]
+    },
+    {
+      "title": "6. Drittlandübermittlungen",
+      "content": [
+        "Eine Übermittlung in Drittländer findet grundsätzlich nicht statt. Sollte dies ausnahmsweise erforderlich sein, gewährleisten wir geeignete Garantien (z. B. EU-Standardvertragsklauseln)."
+      ]
+    },
+    {
+      "title": "7. Speicherdauer",
+      "content": [
+        "Wir speichern personenbezogene Daten nur so lange, wie es für die genannten Zwecke erforderlich ist oder gesetzliche Pflichten bestehen; anschließend löschen oder anonymisieren wir die Daten."
+      ]
+    },
+    {
+      "title": "8. Ihre Rechte",
+      "content": [
+        "Sie haben Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit sowie Widerspruch (Art. 21 DSGVO) gegen Verarbeitungen auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft widerrufen.",
+        "Zur Ausübung Ihrer Rechte kontaktieren Sie uns unter mail[at]idearockers.com. Zudem besteht ein Beschwerderecht bei der zuständigen Aufsichtsbehörde (Liste unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)."
+      ]
+    }
+  ]
+}
+
+

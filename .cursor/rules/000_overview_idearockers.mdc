@@ -1,0 +1,28 @@
+# Idearockers – Cursor Rules (Lightweight)
+
+## Scope
+Small Next.js 15 App Router site with Tailwind + shadcn/ui. No backend in this repo. i18n via `?hl=de` (default EN).
+
+## Directories
+- `app/` – routes, layouts, SEO metadata, sitemap/robots
+- `components/` – UI, hero, sections
+- `translations/` – `en/` and `de/` grouped JSON: `main.json`, `projects.json`, `impress.json`, `privacy.json`
+
+## Non‑negotiables
+- Keep `Footer` global in `app/layout.tsx`
+- Dark theme default via `ThemeProvider` (class strategy)
+- Titles: default slogan; per‑route titles in `app/impress/layout.tsx` and `app/privacy/layout.tsx`
+- Sitemap/robots live at `app/sitemap.ts` and `app/robots.ts`
+
+## Language switching
+- Query param `hl=de` toggles German; links must preserve `hl`
+- No `/de` path prefix
+
+## Commit style
+- Conventional commits only (feat/fix/chore/refactor/docs)
+- Work on `develop`; PRs from feature branches → `develop`; later merge to `main`
+
+## Don’ts
+- Don’t add server rendering of theme class; we accept client application with hydration warning suppressed
+- Don’t introduce new data sources or analytics without updating privacy policy and consent
+

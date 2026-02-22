@@ -1,0 +1,59 @@
+{
+  "title": "Privacy Policy",
+  "back": "Back to Home",
+  "lastUpdatedLabel": "Last updated",
+  "lastUpdated": "2025-08-13",
+  "sections": [
+    {
+      "title": "1. Controller",
+      "content": [
+        "idearockers GmbH, Kanalstraße 62, 23552 Lübeck, Germany. Contact: mail[at]idearockers.com"
+      ]
+    },
+    {
+      "title": "2. Hosting & server logs",
+      "content": [
+        "When visiting this website, our hosting provider processes server log files (e.g., IP address in truncated/shortened form, date/time, requested URL, referrer, user agent) to ensure secure operation (Art. 6(1)(f) GDPR). Data is kept for a short period and then deleted or anonymized."
+      ]
+    },
+    {
+      "title": "3. Cookies",
+      "content": [
+        "We only use technically necessary cookies as required for operation. Optional cookies (e.g., analytics) are currently not used."
+      ]
+    },
+    {
+      "title": "4. Contact",
+      "content": [
+        "If you contact us, we process the data you provide to handle your request (Art. 6(1)(b) or (f) GDPR)."
+      ]
+    },
+    {
+      "title": "5. Recipients",
+      "content": [
+        "Data is only shared with processors (e.g., hosting) under data processing agreements, or where required by law."
+      ]
+    },
+    {
+      "title": "6. International transfers",
+      "content": [
+        "Data is generally not transferred outside the EU/EEA. If exceptionally required, appropriate safeguards are ensured (e.g., EU Standard Contractual Clauses)."
+      ]
+    },
+    {
+      "title": "7. Retention",
+      "content": [
+        "We retain personal data only as long as necessary for the stated purposes or as required by law, and then delete or anonymize it."
+      ]
+    },
+    {
+      "title": "8. Your rights",
+      "content": [
+        "You have rights of access, rectification, erasure, restriction, portability, and objection to processing based on Art. 6(1)(f) GDPR. You may withdraw consent at any time with future effect.",
+        "To exercise your rights, contact: mail[at]idearockers.com. You may also lodge a complaint with your supervisory authority."
+      ]
+    }
+  ]
+}
+
+

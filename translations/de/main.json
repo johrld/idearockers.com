@@ -1,0 +1,38 @@
+{
+  "footer": {
+    "copyright": "© idearockers GmbH. Alle Rechte vorbehalten.",
+    "impress": "Impressum",
+    "privacy": "Datenschutz",
+    "language": "Sprache",
+    "english": "Englisch",
+    "german": "Deutsch"
+  },
+  "hero": {
+    "headlineLines": [
+      "Create clarity.",
+      "Unlock growth.",
+      "Live better."
+    ],
+    "subheadline": "Wir bauen KI-Produkte, die dir Freiraum schaffen – für das, was wirklich zählt."
+  },
+  "products": {
+    "title": "Produkte",
+    "subtitle": "KI-Tools, die dir Zeit und Fokus zurückgeben."
+  },
+  "about": {
+    "headline": "Jede Minute sollte zählen.",
+    "p1": "Stell dir vor, du verbringst deine Tage mit genau dem, was dich wirklich antreibt. Stell dir Technologie vor, die deine Bedürfnisse vorausahnt, statt deine Aufmerksamkeit zu kapern. Stell dir digitale Produkte vor, die den Unterschied kennen — zwischen Produktivität und Geschäftigkeit, zwischen Verbindung und Ablenkung.",
+    "p2": "Das ist unser Nordstern bei Idearockers. Wir bauen KI-getriebene Produkte, die das Rauschen reduzieren, Fokus und Flow freisetzen — und Menschen wachsen lassen, im Business und als Menschen.",
+    "quote": "Die beste Technologie ist die, die du gar nicht bemerkst."
+  },
+  "founder": {
+    "alt": "Porträt des Gründers",
+    "quote": "Ich bin Johannes, Gründer von Idearockers. Wir entwickeln einfache Tools, die dir Zeit, Fokus und Klarheit zurückgeben – für das, was wirklich zählt.",
+    "name": "Johannes Herold",
+    "role": "Founder & CEO",
+    "websiteLabel": "Website",
+    "linkedinLabel": "LinkedIn"
+  }
+}
+
+

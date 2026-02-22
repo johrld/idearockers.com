@@ -1,0 +1,42 @@
+---
+description: Idearockers Git workflow (light), conventional commits, versioning
+globs: *.git*,.github/**
+alwaysApply: false
+---
+
+# Idearockers Git Workflow (Light)
+
+## Branches
+- **develop**: default working branch
+- **main**: production; only merge from develop for releases
+- **feature/<slug>**: short‑lived branches; open PR → develop
+
+## Conventional commits (minimal)
+- `feat:` new feature or content
+- `fix:` bug/copy/style fix
+- `chore:` deps, tooling, config
+- `docs:` docs/rules
+- `refactor:` internal changes without behavior change
+
+## Commit assistant
+1) Analyze diff → classify change
+2) Propose one‑line conventional commit + optional bullets
+3) Ask for confirmation → commit
+
+## Release workflow (develop → main)
+1) Collect commits since last main
+2) Group: features, fixes, UI/content
+3) Create release message
+4) Merge develop → main with message
+5) Tag semantic version (MAJOR.MINOR.PATCH), push tag
+6) Switch back to develop
+
+### Versioning
+- Use semantic versioning, e.g. `v1.3.0`
+- Annotated tags: `git tag -a v1.3.0 -m "feat: homepage refresh + SEO"
+
+## Notes
+- Small site: no heavy CI requirements
+- Keep PRs small; prefer linear history (squash on merge)
+- When adding analytics or major features, update privacy and sitemap accordingly
+

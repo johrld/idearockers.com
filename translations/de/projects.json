@@ -1,0 +1,37 @@
+{
+  "wynd": {
+    "title": "wynd",
+    "description": "wynd liefert hyperlokale Winddaten mit Echtzeit-Präzision – genau dort, wo es zählt: da, wo du fährst. Angetrieben von KI und einer leidenschaftlichen Windsport-Community.",
+    "features": [
+      "Live-Windgeschwindigkeit und -richtung",
+      "Hyperlokale Spot-Insights",
+      "Community-verifizierte Stationen",
+      "Entwickelt für Kitesurfer, Wingfoiler & Windliebhaber"
+    ],
+    "status": "Hyperlokale KI"
+  },
+  "flowboost": {
+    "title": "flowboost",
+    "description": "flowboost ist dein zentrales KI-System für konsistente Inhalte mit Markenprofil. Getrieben von intelligenten Agenten verbindet es deine Daten, Teams und Kanäle – und strafft jeden Schritt von der Strategie bis zur Veröffentlichung.",
+    "features": [
+      "Brand-Engine mit Gedächtnis & Fingerprints",
+      "Redaktionsplaner für Themen & Timing",
+      "AI Content Studio mit SEO & Formatierung",
+      "Multi-Channel-Publishing & Performance"
+    ],
+    "status": "Content Agents"
+  },
+  "breathe": {
+    "title": "breathe",
+    "description": "In einer Welt, die immer schneller und künstlicher wird, bringt breathe Achtsamkeit und Ruhe zurück in dein Leben.\nDie App hilft dir, langsamer zu werden, dich zu verbinden und im Alltag Raum zu schaffen – für das, was wirklich zählt.",
+    "features": [
+      "Geführte Achtsamkeitsreisen",
+      "Tägliche Momente der Ruhe",
+      "Tools zur natürlichen Stresslösung",
+      "Achtsamkeit für ein präsenteres Leben"
+    ],
+    "status": "Mindfulness App"
+  }
+}
+
+

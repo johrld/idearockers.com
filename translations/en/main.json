@@ -1,0 +1,38 @@
+{
+  "footer": {
+    "copyright": "© idearockers GmbH. All rights reserved.",
+    "impress": "Imprint",
+    "privacy": "Privacy Policy",
+    "language": "Language",
+    "english": "English",
+    "german": "Deutsch"
+  },
+  "hero": {
+    "headlineLines": [
+      "Create clarity.",
+      "Unlock growth.",
+      "Live better."
+    ],
+    "subheadline": "We build products that give you back focused time. Powered by AI, designed for humans."
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "AI-powered tools designed to give you back your most valuable resource: focused time."
+  },
+  "about": {
+    "headline": "Every minute should count.",
+    "p1": "Imagine spending your days doing exactly what energizes you. Imagine technology that anticipates your needs instead of hijacking your attention. Imagine digital products that understand the difference between productivity and busyness, between connection and distraction.",
+    "p2": "This is our north star at Idearockers. We build AI-driven products that clear the noise, unlock focus and flow — and help people grow, in business and as humans.",
+    "quote": "Because the best technology is the kind you forget you're using."
+  },
+  "founder": {
+    "alt": "Portrait of the founder",
+    "quote": "I'm Johannes, founder of Idearockers. We build simple tools that give you back time, focus, and clarity — so you can do more of what matters.",
+    "name": "Johannes Herold",
+    "role": "Founder & CEO",
+    "websiteLabel": "jh.de",
+    "linkedinLabel": "LinkedIn"
+  }
+}
+
+

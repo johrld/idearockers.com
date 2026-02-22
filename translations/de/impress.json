@@ -1,0 +1,50 @@
+{
+  "title": "Impressum",
+  "back": "Zurück zur Startseite",
+  "sections": {
+    "provider": {
+      "title": "Angaben gemäß § 5 TMG",
+      "company": "idearockers GmbH",
+      "street": "Kanalstraße 62",
+      "city": "23552 Lübeck",
+      "country": "Deutschland"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "email": "E-Mail: mail[at]idearockers.com"
+    },
+    "representative": {
+      "title": "Vertreten durch",
+      "name": "Johannes Herold (Geschäftsführer)"
+    },
+    "register": {
+      "title": "Registereintrag",
+      "entry": "Eintragung im Handelsregister",
+      "number": "Registernummer: HRB 22833 HL"
+    },
+    "vat": {
+      "title": "Umsatzsteuer-ID",
+      "text": "Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:",
+      "id": "DE292134637"
+    },
+    "responsible": {
+      "title": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV",
+      "name": "Johannes Herold",
+      "street": "Kanalstraße 62",
+      "city": "23552 Lübeck"
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "content": {
+        "contentTitle": "Haftung für Inhalte",
+        "contentText": "Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht unter der Verpflichtung, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.",
+        "linksTitle": "Haftung für Links",
+        "linksText": "Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.",
+        "copyrightTitle": "Urheberrecht",
+        "copyrightText": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+      }
+    }
+  }
+}
+
+

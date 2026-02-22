@@ -1,0 +1,50 @@
+{
+  "title": "Imprint",
+  "back": "Back to Home",
+  "sections": {
+    "provider": {
+      "title": "Information according to § 5 TMG",
+      "company": "idearockers GmbH",
+      "street": "Kanalstraße 62",
+      "city": "23552 Lübeck",
+      "country": "Germany"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "E-mail: mail[at]idearockers.com"
+    },
+    "representative": {
+      "title": "Represented by",
+      "name": "Johannes Herold (Managing Director)"
+    },
+    "register": {
+      "title": "Commercial Register",
+      "entry": "Entry in the commercial register",
+      "number": "Registration number: HRB 22833 HL"
+    },
+    "vat": {
+      "title": "VAT ID",
+      "text": "VAT identification number in accordance with § 27 a of the German VAT Act:",
+      "id": "DE292134637"
+    },
+    "responsible": {
+      "title": "Responsible for content according to § 55 Abs. 2 RStV",
+      "name": "Johannes Herold",
+      "street": "Kanalstraße 62",
+      "city": "23552 Lübeck"
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": {
+        "contentTitle": "Liability for content",
+        "contentText": "As a service provider, we are responsible for our own content on these pages in accordance with § 7 (1) TMG and general laws. However, according to §§ 8 to 10 TMG, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.",
+        "linksTitle": "Liability for links",
+        "linksText": "Our offer contains links to external third-party websites, the content of which we have no influence over. Therefore, we cannot assume any liability for this external content. The respective provider or operator of the pages is always responsible for the content of the linked pages.",
+        "copyrightTitle": "Copyright",
+        "copyrightText": "The content and works created by the site operators on these pages are subject to German copyright law. Duplication, processing, distribution and any kind of exploitation outside the limits of copyright law require the written consent of the respective author or creator."
+      }
+    }
+  }
+}
+
+
