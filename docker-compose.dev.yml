@@ -1,0 +1,20 @@
+services:
+  idearockers:
+    build:
+      context: .
+      dockerfile: dockerfile.dev
+    environment:
+      - NODE_ENV=development
+      - NEXT_TELEMETRY_DISABLED=${NEXT_TELEMETRY_DISABLED}
+      - WATCHPACK_POLLING=true
+      - NEXT_PUBLIC_APP_URL=${IDEAROCKERS_APP_URL_DEV}
+      - NEXT_PUBLIC_APP_URL_DEV=${IDEAROCKERS_APP_URL_DEV}
+      - NEXT_PUBLIC_APP_URL_PROD=${IDEAROCKERS_APP_URL_PROD}
+      - NEXT_PUBLIC_DEV_MODE=${NEXT_PUBLIC_DEV_MODE}
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - "${IDEAROCKERS_DEV_PORT:-3000}:3000"
+    restart: unless-stopped
