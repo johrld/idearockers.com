@@ -5,16 +5,14 @@ services:
       dockerfile: dockerfile.dev
     environment:
       - NODE_ENV=development
-      - NEXT_TELEMETRY_DISABLED=${NEXT_TELEMETRY_DISABLED}
+      - NEXT_TELEMETRY_DISABLED=1
       - WATCHPACK_POLLING=true
-      - NEXT_PUBLIC_APP_URL=${IDEAROCKERS_APP_URL_DEV}
-      - NEXT_PUBLIC_APP_URL_DEV=${IDEAROCKERS_APP_URL_DEV}
-      - NEXT_PUBLIC_APP_URL_PROD=${IDEAROCKERS_APP_URL_PROD}
-      - NEXT_PUBLIC_DEV_MODE=${NEXT_PUBLIC_DEV_MODE}
+      - NEXT_PUBLIC_APP_URL=${SITE_URL_DEV:-https://idearockers.ixr.dev}
+      - NEXT_PUBLIC_DEV_MODE=true
     volumes:
       - .:/app
       - /app/node_modules
       - /app/.next
     ports:
-      - "${IDEAROCKERS_DEV_PORT:-3000}:3000"
+      - "${DEV_PORT:-6202}:3000"
     restart: unless-stopped
