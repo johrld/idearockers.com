@@ -8,10 +8,10 @@ services:
     environment:
       - NODE_ENV=production
       - NEXT_TELEMETRY_DISABLED=1
-      - NEXT_PUBLIC_APP_URL=${NEXT_PUBLIC_APP_URL}
+      - NEXT_PUBLIC_APP_URL=${SITE_URL_PROD:-https://www.idearockers.com}
       - NEXT_PUBLIC_DEV_MODE=false
-    ports:
-      - 3000
+    expose:
+      - "3000"
     restart: always
     networks:
       - dokploy-network
