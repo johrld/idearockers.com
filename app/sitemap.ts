@@ -1,7 +1,9 @@
+export const dynamic = "force-static"
+
 import type { MetadataRoute } from "next"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://www.idearockers.com"
+  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://idearockers.com"
   const routes = [
     "",
     "/impress",
