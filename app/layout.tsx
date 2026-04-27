@@ -12,7 +12,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "https://www.idearockers.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "https://idearockers.com"),
   title: {
     default: "Idearockers — Create clarity. Unlock growth. Live better.",
     template: "Idearockers - %s",
@@ -82,7 +82,7 @@ export default function RootLayout({
                 "@context": "https://schema.org",
                 "@type": "Organization",
                 name: "Idearockers",
-                url: process.env.NEXT_PUBLIC_APP_URL || "https://www.idearockers.com",
+                url: process.env.NEXT_PUBLIC_APP_URL || "https://idearockers.com",
                 logo: "/images/idearockers.svg",
                 sameAs: [],
               }),

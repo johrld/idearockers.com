@@ -8,4 +8,6 @@ export default function LocaleLayout({
   return children
 }
 
-
+export async function generateStaticParams() {
+  return [{ locale: "de" }, { locale: "en" }]
+}
